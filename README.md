@@ -18,3 +18,4 @@
 <div>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?       user=Bamasz&background=0D1117&border=30363D&stroke=30363D&ring=11C5C6&fire=11C5C6&currStreakNum=F9FAFA&sideNums=F9FAFA&currStreakLabel=F9FAFA&sideLabels=F9FAFA&dates=455A64)](https://git.io/streak-stats)
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bamasz&theme=dark)](https://git.io/streak-stats)
