@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Bamasz&style=flat-square&color=blue" alt=""/>
 <div>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?       user=Bamasz&background=0D1117&border=30363D&stroke=30363D&ring=11C5C6&fire=11C5C6&currStreakNum=F9FAFA&sideNums=F9FAFA&currStreakLabel=F9FAFA&sideLabels=F9FAFA&dates=455A64)](https://git.io/streak-stats)
 </div>
